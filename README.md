@@ -10,15 +10,14 @@
 ## 🖼️ Preview do Projeto
 
 ### 🏠 Página Inicial
-![Home do AnaCarlaBooks](./assets/home.png)
+![Home do AnaCarlaBooks](./assets/perfil2.png)
 
 ### 📖 Seção de Livros / Recomendações
-![Seção de Livros](./assets/livros.png)
+![Seção de Livros](./assets/blog2.png)
 
 ### 📝 Detalhes ou Resenhas
-![Resenhas](./assets/resenhas.png)
+![Resenhas](./assets/playlist_musical2.png)
 
-> 💡 Dica: crie uma pasta chamada **assets** no repositório e coloque as imagens lá.
 
 ---
 
